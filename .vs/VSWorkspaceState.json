@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\dashboard",
+    "\\src\\app\\components\\homepage",
+    "\\src\\app\\components\\login",
+    "\\src\\app\\components\\opportunities",
+    "\\src\\app\\model",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\src\\app\\services\\bigiron-isr.service.ts",
+  "PreviewInSolutionExplorer": false
+}
